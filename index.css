@@ -137,7 +137,7 @@ html,body{
     z-index: 9;
 }
 #text1>h1{
-    font-size: 60px;
+    font-size: 40px;
     margin-top: 20px;
 }
 #text1>h4{
@@ -147,7 +147,7 @@ html,body{
   width: 70%;
   margin-top: 50%;
 }
-#text1>h5{
+#text1>h4{
     color: blueviolet;
     transform: perspective(-20deg);
     position: absolute;
